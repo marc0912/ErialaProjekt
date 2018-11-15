@@ -599,20 +599,20 @@ section#contact .section-heading {
   color: #fff;
 }
 
-section#contact .form-group {
+section#contact .control-group {
   margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#contact .control-group input,
+section#contact .control-group textarea {
   padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+section#contact .control-group input.form-control {
   height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+section#contact .control-group textarea.form-control {
   height: 248px;
 }
 
